@@ -14,7 +14,37 @@
 	border-radius: 2%;
 }
 
-#btn-start {
+#btn-start,
+#btn-check-1,
+#btn-check-2,
+#btn-check-3,
+#btn-check-4,
+#btn-check-5,
+#btn-check-6,
+#btn-check-7,
+#btn-check-8,
+#btn-check-9,
+#btn-check-10,
+#btn-check-11,
+#btn-check-12,
+#btn-check-13,
+#btn-check-14,
+#btn-check-15,
+#btn-check-16,
+#btn-check-17,
+#btn-check-18,
+#btn-check-19,
+#btn-check-20,
+#btn-check-21,
+#btn-check-22,
+#btn-check-23,
+#btn-check-24,
+#btn-check-25,
+#btn-check-26,
+#btn-check-27,
+#btn-check-28,
+#btn-check-29,
+#btn-check-30{
   display: inline-block;
   padding: 15px 25px;
   font-size: 15px;
@@ -30,10 +60,185 @@
 
 }
 
-#btn-start:hover {background-color: #3e8e41}
+#btn-start:hover,
+#btn-check:hover,
+#btn-check-1:hover,
+#btn-check-2:hover,
+#btn-check-3:hover,
+#btn-check-4:hover,
+#btn-check-5:hover,
+#btn-check-6:hover,
+#btn-check-7:hover,
+#btn-check-8:hover,
+#btn-check-9:hover,
+#btn-check-10:hover,
+#btn-check-11:hover,
+#btn-check-12:hover,
+#btn-check-13:hover,
+#btn-check-14:hover,
+#btn-check-15:hover,
+#btn-check-16:hover,
+#btn-check-17:hover,
+#btn-check-18:hover,
+#btn-check-19:hover,
+#btn-check-20:hover,
+#btn-check-21:hover,
+#btn-check-22:hover,
+#btn-check-23:hover,
+#btn-check-24:hover,
+#btn-check-25:hover,
+#btn-check-26:hover,
+#btn-check-27:hover,
+#btn-check-28:hover,
+#btn-check-29:hover,
+#btn-check-30:hover{background-color: #3e8e41}
 
-#btn-start:active {
+#btn-start:active,
+#btn-check:active ,
+#btn-check-1:active ,
+#btn-check-2:active ,
+#btn-check-3:active ,
+#btn-check-4:active ,
+#btn-check-5:active ,
+#btn-check-6:active ,
+#btn-check-7:active ,
+#btn-check-8:active ,
+#btn-check-9:active ,
+#btn-check-10:active ,
+#btn-check-11:active ,
+#btn-check-12:active ,
+#btn-check-13:active ,
+#btn-check-14:active ,
+#btn-check-15:active ,
+#btn-check-16:active ,
+#btn-check-17:active ,
+#btn-check-18:active ,
+#btn-check-19:active ,
+#btn-check-20:active ,
+#btn-check-21:active ,
+#btn-check-22:active ,
+#btn-check-23:active ,
+#btn-check-24:active ,
+#btn-check-25:active ,
+#btn-check-26:active ,
+#btn-check-27:active ,
+#btn-check-28:active ,
+#btn-check-29:active ,
+#btn-check-30:active {
   background-color: #3e8e41;
+  box-shadow: 0 1px #666;
+  transform: translateY(4px);
+}
+
+#btn-next-1, 
+#btn-next-2,
+#btn-next-3,
+#btn-next-4,
+#btn-next-5,
+#btn-next-6,
+#btn-next-7,
+#btn-next-8,
+#btn-next-9,
+#btn-next-10,
+#btn-next-11,
+#btn-next-12,
+#btn-next-13,
+#btn-next-14,
+#btn-next-15,
+#btn-next-16,
+#btn-next-17,
+#btn-next-18,
+#btn-next-19,
+#btn-next-20,
+#btn-next-21,
+#btn-next-22,
+#btn-next-23,
+#btn-next-24,
+#btn-next-25,
+#btn-next-26,
+#btn-next-27,
+#btn-next-28,
+#btn-next-29,
+#btn-next-30
+{
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 15px;
+  cursor: pointer;
+  text-align: center; 
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #D6693E;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 5px #636363;
+
+}
+
+#btn-next-1:hover, 
+#btn-next-2:hover
+#btn-next-3:hover,
+#btn-next-4:hover,
+#btn-next-5:hover,
+#btn-next-6:hover,
+#btn-next-7:hover,
+#btn-next-8:hover,
+#btn-next-9:hover,
+#btn-next-10:hover,
+#btn-next-11:hover,
+#btn-next-12:hover,
+#btn-next-13:hover,
+#btn-next-14:hover,
+#btn-next-15:hover,
+#btn-next-16:hover,
+#btn-next-17:hover,
+#btn-next-18:hover,
+#btn-next-19:hover,
+#btn-next-20:hover,
+#btn-next-21:hover,
+#btn-next-22:hover,
+#btn-next-23:hover,
+#btn-next-24:hover,
+#btn-next-25:hover,
+#btn-next-26:hover,
+#btn-next-27:hover,
+#btn-next-28:hover,
+#btn-next-29:hover,
+#btn-next-30:hover{background-color: #D57A66}
+
+#btn-next-1:active, 
+#btn-next-2:active,
+#btn-next-3:active,
+#btn-next-4:active,
+#btn-next-5:active,
+#btn-next-6:active,
+#btn-next-7:active,
+#btn-next-8:active,
+#btn-next-9:active,
+#btn-next-10:active,
+#btn-next-11:active,
+#btn-next-12:active,
+#btn-next-13:active,
+#btn-next-14:active,
+#btn-next-15:active,
+#btn-next-16:active,
+#btn-next-17:active,
+#btn-next-18:active,
+#btn-next-19:active,
+#btn-next-20:active,
+#btn-next-21:active,
+#btn-next-22:active,
+#btn-next-23:active,
+#btn-next-24:active,
+#btn-next-25:active,
+#btn-next-26:active,
+#btn-next-27:active,
+#btn-next-28:active,
+#btn-next-29:active,
+#btn-next-30:active
+{
+  background-color: #D57A66;
   box-shadow: 0 1px #666;
   transform: translateY(4px);
 }
@@ -46,10 +251,37 @@
 	margin-bottom: 2px;	
 	color:white;
 }
+.score{
+	background-color: #525453;
+	color: white;
+  height: 50px;
+  width: 1278px;
+  position: absolute;
+  margin-top: none;
+}
+.no-lista li{
+	list-style-type:none; 
+  position: absolute;
+  top:15px;
+}
+.riddles-container{
+  width: 400px;
+  height:600px;
+  background-color:#525453;
+  position: absolute;
+  top:80px;
+  left: 450px;
+}
 /********************************HERE STARTS THE GROUP'S NAME INPUT STYLE**************************************************/
 /*************************************************************************************************************************/
 /*************************************************************************************************************************/
-.group-name1 input[type="text"]{
+.group-name1 input[type="text"],
+.riddle-1 input[type="text"],
+.riddle-6 input[type="text"],
+.riddle-11 input[type="text"],
+.riddle-16 input[type="text"],
+.riddle-21 input[type="text"],
+.riddle-26 input[type="text"]{
 
   font-size: 16px;
   color: #00AD3F;
@@ -61,13 +293,20 @@
   border-bottom: 2px solid #35B261;
 }
 .group-name1 input[type="text"]:active,
-.group-name1 input[type="text"]:focus{
+.group-name1 input[type="text"]:focus,
+{
 	 outline: none;
   border-bottom: 2px solid #00AD3F;
 
 }
 
-.group-name2 input[type="text"]{
+.group-name2 input[type="text"],
+.riddle-2 input[type="text"],
+.riddle-7 input[type="text"],
+.riddle-12 input[type="text"],
+.riddle-17 input[type="text"],
+.riddle-22 input[type="text"],
+.riddle-27 input[type="text"]{
 
   font-size: 16px;
   color: #0C20D1;
@@ -79,13 +318,20 @@
   border-bottom: 2px solid #20A4F3;
 }
 .group-name2 input[type="text"]:active,
-.group-name2 input[type="text"]:focus{
+.group-name2 input[type="text"]:focus
+{
 	 outline: none;
   border-bottom: 2px solid #0C20D1;
 
 }
 
-.group-name3 input[type="text"]{
+.group-name3 input[type="text"],
+.riddle-3 input[type="text"],
+.riddle-8 input[type="text"],
+.riddle-13 input[type="text"],
+.riddle-18 input[type="text"],
+.riddle-23 input[type="text"],
+.riddle-28 input[type="text"]{
 
   font-size: 16px;
   color: #930D23;
@@ -97,13 +343,20 @@
   border-bottom: 2px solid #D3323D;
 }
 .group-name3 input[type="text"]:active,
-.group-name3 input[type="text"]:focus{
+.group-name3 input[type="text"]:focus
+{
 	 outline: none;
   border-bottom: 2px solid #930D23;
 
 }
 
-.group-name4 input[type="text"]{
+.group-name4 input[type="text"],
+.riddle-4 input[type="text"],
+.riddle-9 input[type="text"],
+.riddle-14 input[type="text"],
+.riddle-19 input[type="text"],
+.riddle-24 input[type="text"],
+.riddle-29 input[type="text"]{
 
   font-size: 16px;
   color: #DBFF28;
@@ -121,7 +374,13 @@
 
 }
 
-.group-name5 input[type="text"]{
+.group-name5 input[type="text"],
+.riddle-5 input[type="text"],
+.riddle-10 input[type="text"],
+.riddle-15 input[type="text"],
+.riddle-20 input[type="text"],
+.riddle-25 input[type="text"],
+.riddle-30 input[type="text"]{
 
   font-size: 16px;
   color: #FF7E28;
